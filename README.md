@@ -1,1 +1,1 @@
-# low-carb-recipes
+Das ist ein kleines Projekt für meine Mutter, wo ich alle Low Carb Rezepte, die sie auf verschiedenen Internetseiten gespeichert hat, auf eine Seite bringe, sodass man alle Rezepte auf einen Blick hat ohne das man 10 verschiedene Tabs geöffnet haben muss.  
